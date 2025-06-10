@@ -1,0 +1,11 @@
+Package: mbstuff
+Type: Package
+Title: Miscellaneous Functions
+Version: 0.1.0
+Author: M.B.
+Maintainer: M.B. <https://github.com/matthias-br>
+Description: Miscellaneous functions for things I find myself doing a lot and that I would like to have in one place.
+    Feel free to use, but I take no responsibility.
+License: 
+Encoding: UTF-8
+LazyData: true
