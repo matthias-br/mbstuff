@@ -1,6 +1,8 @@
 
 # mbstuff
 
+[![](https://img.shields.io/github/last-commit/matthias-br/mbstuff.svg)](https://github.com/matthias-br/mbstuff/commits/master)
+
 A personal R package with miscellaneous functions that I have found to
 be useful.
 
