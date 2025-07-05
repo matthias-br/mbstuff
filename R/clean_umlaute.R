@@ -1,7 +1,7 @@
 # Replace Umlaute and ß with alternative spelling
 # (case sensitive)
 
-clean_umlaute2 <- function(x){
+clean_umlaute <- function(x){
   umlaut_patterns <- c("Ä", "Ö", "Ü", "ẞ", "ä", "ö", "ü", "ß")
   umlaut_replacements <- c("Ae", "Oe", "Ue", "SS", "ae", "oe", "ue", "ss")
 
