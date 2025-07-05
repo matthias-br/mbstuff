@@ -1,2 +1,5 @@
-# mbstuff
-## Miscellanous Functions
+
+### mbstuff
+
+A personal R package with miscellaneous functions that I have found to
+be useful.
