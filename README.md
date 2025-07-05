@@ -1,12 +1,4 @@
 
-    ## Warning: Paket 'devtools' wurde unter R Version 4.3.3 erstellt
-
-    ## Lade nötiges Paket: usethis
-
-    ## Warning: Paket 'usethis' wurde unter R Version 4.3.3 erstellt
-
-    ## ℹ Loading mbstuff
-
 # mbstuff
 
 A personal R package with miscellaneous functions that I have found to
